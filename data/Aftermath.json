@@ -1,12 +1,24 @@
 {
-    "id": 60978746,
-    "name": "The Golden",
-    "author": "BoBoBoBoBoBoBo",
-    "creators": ["BoBoBoBoBoBoBo"],
-    "verifier": "Stray",
-    "verification": "https://www.youtube.com/watch?v=_-wfL1rephk",
+    "id": 25610878,
+    "name": "Aftermath",
+    "author": "Exenity",
+    "creators": ["Findexi", "Bassiegames", "Rhythmic", "Exenity", "Hinds", "knobbelboy", "Squizz", "Vultra", "Waze"],
+    "verifier": "Geo",
+    "verification": "https://www.youtube.com/watch?v=t8TVtKRozNY",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Stray",
+            "link": "https://www.youtube.com/watch?v=RhLbALMgjQM",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "Evs",
+            "link": "https://www.youtube.com/watch?v=EbUA2CtjhBk",
+            "percent": 100,
+            "fps": 720
+        }
     ]
 }
