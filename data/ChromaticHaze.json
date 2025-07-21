@@ -1,12 +1,18 @@
 {
-    "id": 60978746,
-    "name": "The Golden",
-    "author": "BoBoBoBoBoBoBo",
-    "creators": ["BoBoBoBoBoBoBo"],
+    "id": 62869408,
+    "name": "Chromatic Haze",
+    "author": "Gizbro",
+    "creators": ["Gizbro"],
     "verifier": "Stray",
-    "verification": "https://www.youtube.com/watch?v=_-wfL1rephk",
+    "verification": "https://www.youtube.com/watch?v=6BKm_oFbyd0",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "rhyssfault",
+            "link": "https://www.youtube.com/watch?v=s6SByiuDSnw",
+            "percent": 100,
+            "fps": 240
+        }
     ]
 }
