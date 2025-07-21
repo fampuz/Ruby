@@ -1,12 +1,18 @@
 {
-    "id": 60978746,
-    "name": "The Golden",
-    "author": "BoBoBoBoBoBoBo",
-    "creators": ["BoBoBoBoBoBoBo"],
-    "verifier": "Stray",
-    "verification": "https://www.youtube.com/watch?v=_-wfL1rephk",
+    "id": 88244926,
+    "name": "MISFIRE",
+    "author": "Galaxxyss",
+    "creators": ["Waffl3x", "Metsho", "Galaxxyss", "zYuko", "lGenoxide", "GawrGura", "valentine", "StarkytheSalad"],
+    "verifier": "Aaron",
+    "verification": "https://www.youtube.com/watch?v=Jc0CF2Oxo48",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Stray",
+            "link": "https://www.youtube.com/watch?v=2aCFE_3vcnE",
+            "percent": 100,
+            "fps": 480
+        }
     ]
 }
