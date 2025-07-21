@@ -1,12 +1,18 @@
 {
-    "id": 60978746,
-    "name": "The Golden",
-    "author": "BoBoBoBoBoBoBo",
-    "creators": ["BoBoBoBoBoBoBo"],
-    "verifier": "Stray",
-    "verification": "https://www.youtube.com/watch?v=_-wfL1rephk",
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Asonicmen", "Evasium", "Crack", "Riot", "GgB0y", "Michigun", "Etzer", "Giron", "Havok", "weoweoteo", "Vermillion"],
+    "verifier": "Geo",
+    "verification": "https://www.youtube.com/watch?v=yKFLMDb2h_s",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Zoomi",
+            "link": "https://www.youtube.com/watch?v=ddkdvFUPO-I",
+            "percent": 100,
+            "fps": 360
+        }
     ]
 }

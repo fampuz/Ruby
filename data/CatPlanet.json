@@ -1,12 +1,18 @@
 {
-    "id": 60978746,
-    "name": "The Golden",
-    "author": "BoBoBoBoBoBoBo",
-    "creators": ["BoBoBoBoBoBoBo"],
+    "id": 84766628,
+    "name": "Cat Planet",
+    "author": "icedcave",
+    "creators": ["icedcave"],
     "verifier": "Stray",
-    "verification": "https://www.youtube.com/watch?v=_-wfL1rephk",
+    "verification": "https://www.youtube.com/watch?v=HMeh03EleRY",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Aaron",
+            "link": "https://www.youtube.com/watch?v=85EAql95TSY",
+            "percent": 100,
+            "fps": 300
+        }
     ]
 }
