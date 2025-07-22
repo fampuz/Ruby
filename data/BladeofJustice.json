@@ -12,13 +12,13 @@
             "user": "Stray",
             "link": "https://www.youtube.com/watch?v=5tt7l83eQNM",
             "percent": 100,
-            "fps": 240
+            "hz": 240
         },
         {
             "user": "Zoomi",
             "link": "https://www.youtube.com/watch?v=ypom5D4ZYmE",
             "percent": 100,
-            "fps": 360
+            "hz": 360
         }
     ]
 }

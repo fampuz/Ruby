@@ -1,12 +1,30 @@
 {
-    "id": 60978746,
-    "name": "The Golden",
-    "author": "BoBoBoBoBoBoBo",
-    "creators": ["BoBoBoBoBoBoBo"],
+    "id": 96345801,
+    "name": "Violet Illusions",
+    "author": "Enfur",
+    "creators": ["Enfur", "Jedwint"],
     "verifier": "Stray",
-    "verification": "https://www.youtube.com/watch?v=_-wfL1rephk",
+    "verification": "https://www.youtube.com/watch?v=RhC7Nzr8uaY&t=20s",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Geo",
+            "link": "https://www.youtube.com/watch?v=SMHgUaIfLns",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Evs",
+            "link": "https://www.youtube.com/watch?v=lk0h3ANziag",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Wiluck",
+            "link": "https://www.youtube.com/watch?v=cVTTNptGf98&t=56s",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

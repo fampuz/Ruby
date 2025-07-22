@@ -1,12 +1,24 @@
 {
-    "id": 60978746,
-    "name": "The Golden",
-    "author": "BoBoBoBoBoBoBo",
-    "creators": ["BoBoBoBoBoBoBo"],
-    "verifier": "Stray",
-    "verification": "https://www.youtube.com/watch?v=_-wfL1rephk",
+    "id": 68848817,
+    "name": "Moment",
+    "author": "Lexycat",
+    "creators": ["Lexycat"],
+    "verifier": "Aaron",
+    "verification": "https://www.youtube.com/watch?v=8uiAyo2KEes",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Geo",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "rhyssfault",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
