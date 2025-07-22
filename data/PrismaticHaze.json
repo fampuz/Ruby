@@ -1,12 +1,18 @@
 {
-    "id": 60978746,
-    "name": "The Golden",
-    "author": "BoBoBoBoBoBoBo",
-    "creators": ["BoBoBoBoBoBoBo"],
-    "verifier": "Stray",
-    "verification": "https://www.youtube.com/watch?v=_-wfL1rephk",
+    "id": 59899374,
+    "name": "Prismatic Haze",
+    "author": "Cirtrax",
+    "creators": ["Gizbro", "Moosh"],
+    "verifier": "Rhyssfault",
+    "verification": "https://www.youtube.com/watch?v=v3S5Ztnt2js&t=4s",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Aaron",
+            "link": "https://www.youtube.com/watch?v=by65JGvWj38",
+            "percent": 100,
+            "hz": 150
+        }
     ]
 }

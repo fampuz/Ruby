@@ -12,13 +12,13 @@
             "user": "Sample_Victor_1",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "fps": 360
+            "hz": 360
         },
         {
             "user": "Sample_Victor_2",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "fps": 120
+            "hz": 120
         }
     ]
 }
