@@ -1,12 +1,24 @@
 {
-    "id": 106207569,
-    "name": "DEAD OF NIGHT (unfinished)",
-    "author": "soleyGD",
-    "creators": ["soleyGD"],
-    "verifier": "Aaron",
-    "verification": "https://www.youtube.com/watch?v=MxT7SppZRAY",
+    "id": 107539734,
+    "name": "DEAD OF NIGHT",
+    "author": "Split72",
+    "creators": ["Split72"],
+    "verifier": "Evs",
+    "verification": "https://www.youtube.com/watch?v=GW0-x_Drzv8",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Gamer",
+            "link": "https://www.youtube.com/watch?v=tfhy21hB1XM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "rhyssfault",
+            "link": "https://www.youtube.com/watch?v=vOwXbezF_VY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

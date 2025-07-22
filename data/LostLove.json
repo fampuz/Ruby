@@ -1,12 +1,18 @@
 {
-    "id": 106207569,
-    "name": "Lost Love (unfinished)",
-    "author": "soleyGD",
-    "creators": ["soleyGD"],
-    "verifier": "Aaron",
-    "verification": "https://www.youtube.com/watch?v=MxT7SppZRAY",
-    "percentToQualify": "100",
+    "id": 85933508,
+    "name": "Lost Love",
+    "author": "TheBlackHell",
+    "creators": ["TheBlackHell"],
+    "verifier": "Rhys",
+    "verification": "https://www.youtube.com/watch?v=XEXdZHM5lFA",
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "sdAce",
+            "link": "https://www.youtube.com/watch?v=DyXrnAihZ2s",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
