@@ -1,0 +1,30 @@
+{
+    "id": 111529435,
+    "name": "verisimilitude",
+    "author": "whlt",
+    "creators": ["Rowan","rply","OliXor","Wyntaee","whlt"],
+    "verifier": "rhyssfault",
+    "verification": "https://www.youtube.com/watch?v=tzOo8tGlbNo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Aaron",
+            "link": "https://www.youtube.com/watch?v=jGFdcmyWJUc",
+            "percent": 100,
+            "hz": 150
+        },
+        {
+            "user": "Evs",
+            "link": "https://www.youtube.com/watch?v=rcnduO9ysac",
+            "percent": 100,
+            "hz": 1000000000
+        },
+        {
+            "user": "Stray",
+            "link": "https://www.youtube.com/watch?v=wsQOCixkWzw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

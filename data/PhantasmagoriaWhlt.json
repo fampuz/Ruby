@@ -1,0 +1,19 @@
+
+{
+    "id": 76670086,
+    "name": "Phantasmagoria (whlt)",
+    "author": "whlt",
+    "creators": ["whlt"],
+    "verifier": "Aaron",
+    "verification": "https://www.youtube.com/watch?v=puRhaZqk47U",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "rhyssfault",
+            "link": "https://www.youtube.com/watch?v=aXcdU4ZMPl0",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
