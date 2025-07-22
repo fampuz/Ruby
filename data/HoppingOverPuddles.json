@@ -3,11 +3,17 @@
     "name": "Hopping Over Puddles",
     "author": "J27Blaze",
     "creators": ["J27Blaze"],
-    "verifier": "Aaron",
-    "verification": "https://www.youtube.com/watch?v=5vx6UgccqCU",
+    "verifier": "Evs",
+    "verification": "https://www.youtube.com/watch?v=2qXPoucDXgM&list=PLCaqsErV4zcSSeuUxYdUIjykAqWgHj5e_&index=2",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Aaron",
+            "link": "https://www.youtube.com/watch?v=5vx6UgccqCU",
+            "percent": 100,
+            "hz": 300
+        },
         {
             "user": "rhyssfault",
             "link": "https://www.youtube.com/watch?v=5t5mXsZ0Tsc",

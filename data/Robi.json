@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Evs",
+            "link": "https://www.youtube.com/watch?v=GeoWWu_Q5CY&list=PLCaqsErV4zcSSeuUxYdUIjykAqWgHj5e_&index=2",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
