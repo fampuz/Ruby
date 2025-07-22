@@ -1,0 +1,30 @@
+{
+    "id": 76196489,
+    "name": "Troll level",
+    "author": "Lexycat",
+    "creators": ["Glitchy" , "Lexycat", "lena"],
+    "verifier": "Geo",
+    "verification": "https://www.youtube.com/watch?v=HAAj69UcoZI",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "rhyssfault",
+            "link": "https://www.youtube.com/watch?v=cJReFbEwscY",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "sdAce",
+            "link": "https://www.youtube.com/watch?v=QJSaYP7cHeY",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Evs",
+            "link": "https://www.youtube.com/watch?v=Tve5txHAU6o",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
