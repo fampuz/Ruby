@@ -1,12 +1,12 @@
 [
     {
         "role": "owner",
-        "name": ["List Owner", "Aaron"],
+        "name": "List Owner: Aaron",
         "link": "https://www.youtube.com/@fampussy"
     },
     {
         "role": "helper",
-        "name": "List Helper",
+        "name": "List Helper: Geo",
         "link": "https://www.youtube.com/@geomateyt"
     }
 ]
