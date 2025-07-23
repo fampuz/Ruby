@@ -3,10 +3,16 @@
     "name": "Galaxy Gas",
     "author": "xSlendy",
     "creators": ["xSlendy"],
-    "verifier": "Stray",
-    "verification": "https://www.youtube.com/watch?v=JY6WmRsIxUA",
-    "percentToQualify": "100",
+    "verifier": "Jyvl",
+    "verification": "https://www.youtube.com/watch?v=BlwtQLrh1NE&list=PLiQVqoKb3ROdhitRo008Yj6cM3EgZrHnn&index=14",
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Stray",
+            "link": "https://www.youtube.com/watch?v=JY6WmRsIxUA",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }

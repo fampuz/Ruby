@@ -3,10 +3,16 @@
     "name": "Carcano",
     "author": "Asuith",
     "creators": ["TomsoN", "Asuith"],
-    "verifier": "Aaron",
-    "verification": "https://www.youtube.com/watch?v=im1aH3HNQk4",
-    "percentToQualify": "100",
+    "verifier": "Jyvl",
+    "verification": "https://www.youtube.com/watch?v=gil5WBv2ITs&list=PLiQVqoKb3ROdhitRo008Yj6cM3EgZrHnn&index=24",
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Aaron",
+            "link": "https://www.youtube.com/watch?v=im1aH3HNQk4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

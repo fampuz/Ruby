@@ -15,7 +15,7 @@
             "hz": 300
         },
         {
-            "user": "Rhys",
+            "user": "rhyssfault",
             "link": "https://www.youtube.com/watch?v=3t4fiBoLQYs",
             "percent": 100,
             "hz": 120
@@ -29,6 +29,12 @@
         {
             "user": "Wiluck",
             "link": "https://www.youtube.com/watch?v=vVA-hGUZnaI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ZohMyGoodness",
+            "link": "https://www.youtube.com/watch?v=VQPUwCul_oU",
             "percent": 100,
             "hz": 360
         }

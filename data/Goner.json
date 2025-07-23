@@ -1,6 +1,6 @@
 {
     "id": 77310650,
-    "name": "Goner",
+    "name": "GONER",
     "author": "Nightning",
     "creators": ["Nightning"],
     "verifier": "Stray",
@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Jyvl",
+            "link": "https://www.youtube.com/watch?v=NUxCmHcp6xg&list=PLiQVqoKb3ROdhitRo008Yj6cM3EgZrHnn&index=10",
+            "percent": 100,
+            "hz": 240
+        }
+
     ]
 }

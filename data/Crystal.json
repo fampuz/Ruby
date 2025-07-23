@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "Jyvl",
+            "link": "https://www.youtube.com/watch?v=gV0bDe329W8&list=PLiQVqoKb3ROdhitRo008Yj6cM3EgZrHnn&index=8",
+            "percent": 100,
+            "hz": 240
+        }
+
     ]
 }

@@ -3,10 +3,23 @@
     "name": "RUST",
     "author": "neigefeu",
     "creators": ["neigefeu"],
-    "verifier": "Stray",
-    "verification": "https://www.youtube.com/watch?v=cBBLLRx9M1E",
+    "verifier": "Anthony",
+    "verification": "https://www.youtube.com/watch?v=-Y7etpXSASQ",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Stray",
+            "link": "https://www.youtube.com/watch?v=cBBLLRx9M1E",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Jyvl",
+            "link": "https://www.youtube.com/watch?v=poo-iaI709o&list=PLiQVqoKb3ROdhitRo008Yj6cM3EgZrHnn&index=3",
+            "percent": 100,
+            "hz": 240
+        }
+
     ]
 }

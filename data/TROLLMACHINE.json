@@ -2,11 +2,17 @@
     "id": 84325817,
     "name": "TROLLMACHINE",
     "author": "TROLLM4CHINE",
-    "creators": ["somebody"],
-    "verifier": "rhyssfault",
-    "verification": "https://www.youtube.com/watch?v=Ee9U8S_FSWE",
-    "percentToQualify": "100",
+    "creators": ["RT", "Tsuzuito", "Luvery", "TROLLM4CHINE", "Lagnugg", "Vitchrose", "LATEO", "Ishigiru"],
+    "verifier": "Jyvl",
+    "verification": "https://www.youtube.com/watch?v=BI-yZ0bt490&list=PLiQVqoKb3ROdhitRo008Yj6cM3EgZrHnn&index=26",
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "rhyssfault",
+            "link": "https://www.youtube.com/watch?v=Ee9U8S_FSWE",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }

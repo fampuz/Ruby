@@ -3,10 +3,16 @@
     "name": "Digital Descent",
     "author": "ViPriN",
     "creators": ["dude there are way too many people im not doing ts"],
-    "verifier": "Geo",
-    "verification": "https://www.youtube.com/watch?v=CXqoFH-pYIw",
+    "verifier": "Anthony",
+    "verification": "https://www.youtube.com/watch?v=i30khCqB7t0",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Geo",
+            "link": "https://www.youtube.com/watch?v=CXqoFH-pYIw",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

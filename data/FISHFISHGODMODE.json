@@ -1,13 +1,19 @@
 {
-    "id": 111529435,
+    "id": 89807521,
     "name": "FISH FISH GODMODE",
     "author": "whoiskeve",
     "creators": ["whoiskeve"],
-    "verifier": "Stray",
-    "verification": "https://www.youtube.com/watch?v=X_F9OcsDhtk",
+    "verifier": "Jyvl",
+    "verification": "https://www.youtube.com/watch?v=qSL3FE8HotQ&list=PLiQVqoKb3ROdhitRo008Yj6cM3EgZrHnn&index=31",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Stray",
+            "link": "https://www.youtube.com/watch?v=X_F9OcsDhtk",
+            "percent": 100,
+            "hz": 463726
+        },
         {
             "user": "Gamer",
             "link": "https://www.youtube.com/watch?v=kDZ1-90oJuQ",

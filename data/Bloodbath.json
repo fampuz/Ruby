@@ -9,10 +9,23 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Luxury",
+            "link": "https://www.youtube.com/watch?v=9-ofPMxaS3o",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Zoomi",
             "link": "https://www.youtube.com/watch?v=ddkdvFUPO-I",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Jyvl",
+            "link": "https://www.youtube.com/watch?v=plnYfaWmFDM&list=PLiQVqoKb3ROdhitRo008Yj6cM3EgZrHnn&index=6",
+            "percent": 100,
+            "hz": 240
         }
+
     ]
 }

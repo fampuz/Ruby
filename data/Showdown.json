@@ -3,10 +3,16 @@
     "name": "Showdown",
     "author": "clncrvl",
     "creators": ["clncrvl"],
-    "verifier": "Stray",
-    "verification": "https://www.youtube.com/watch?v=_Mz5xCAoeOY",
-    "percentToQualify": "100",
+    "verifier": "Jyvl",
+    "verification": "https://www.youtube.com/watch?v=iSLgwS7UntE&list=PLiQVqoKb3ROdhitRo008Yj6cM3EgZrHnn&index=23",
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Stray",
+            "link": "https://www.youtube.com/watch?v=_Mz5xCAoeOY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

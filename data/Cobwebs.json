@@ -3,10 +3,16 @@
     "name": "Cobwebs",
     "author": "NineDice",
     "creators": ["NineDice"],
-    "verifier": "Stray",
-    "verification": "https://www.youtube.com/watch?v=cbnooq5IS3s",
-    "percentToQualify": "100",
+    "verifier": "Jyvl",
+    "verification": "https://www.youtube.com/watch?v=FoQbHU8dd-M&list=PLiQVqoKb3ROdhitRo008Yj6cM3EgZrHnn&index=7",
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Stray",
+            "link": "https://www.youtube.com/watch?v=cbnooq5IS3s",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }

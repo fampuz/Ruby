@@ -3,10 +3,16 @@
     "name": "The Ultimate Demon",
     "author": "vit12",
     "creators": ["vit12"],
-    "verifier": "Geo",
-    "verification": "https://www.youtube.com/watch?v=zM_3hyL14H8",
+    "verifier": "Luxury",
+    "verification": "https://www.youtube.com/watch?v=RobCL1PV0YM",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Geo",
+            "link": "https://www.youtube.com/watch?v=zM_3hyL14H8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

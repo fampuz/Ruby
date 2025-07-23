@@ -13,6 +13,13 @@
             "link": "https://www.youtube.com/watch?v=LTI8Jbu8ex0",
             "percent": 100,
             "hz": 360
+        },
+         {
+            "user": "Jyvl",
+            "link": "https://www.youtube.com/watch?v=TIqgh8-EdXg&list=PLiQVqoKb3ROdhitRo008Yj6cM3EgZrHnn&index=21",
+            "percent": 100,
+            "hz": 240
         }
+
     ]
 }

@@ -9,6 +9,12 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Anthony",
+            "link": "https://www.youtube.com/watch?v=8lE8itakZfA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Geo",
             "link": "https://www.youtube.com/watch?v=SMHgUaIfLns",
             "percent": 100,

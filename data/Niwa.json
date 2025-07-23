@@ -1,6 +1,6 @@
 {
     "id": 87425029,
-    "name": "Niwa",
+    "name": "niwa",
     "author": "Teno",
     "creators": ["KrazyGFX", "Mrgm", "peng", "Blaze", "Teno", "Pedro", "Aranda", "BeClan", "Titoalper", "Asuith", "Genoxide"],
     "verifier": "Geo",
@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Jyvl",
+            "link": "https://www.youtube.com/watch?v=Kc_sqN6oyr0&list=PLiQVqoKb3ROdhitRo008Yj6cM3EgZrHnn&index=30",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Aaron",
             "link": "https://www.youtube.com/watch?v=DPSt66K_auk",
@@ -31,6 +37,13 @@
             "link": "https://www.youtube.com/watch?v=vx-4dzqwnCk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ZohMyGoodness",
+            "link": "youtu.be/I7ORPzI9nuk?si=O3SSSKoW2HSXxl4w",
+            "percent": 100,
+            "hz": 144
         }
+
     ]
 }
