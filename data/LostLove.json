@@ -3,22 +3,22 @@
     "name": "Lost Love",
     "author": "TheBlackHell",
     "creators": ["TheBlackHell"],
-    "verifier": "rhyssfault",
-    "verification": "https://www.youtube.com/watch?v=XEXdZHM5lFA",
+    "verifier": "sdAce",
+    "verification": "https://www.youtube.com/watch?v=DyXrnAihZ2s",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "rhyssfault",
+            "link": "https://www.youtube.com/watch?v=XEXdZHM5lFA",
+            "percent": 100,
+            "hz": 60
+        },
         {
             "user": "Jyvl",
             "link": "https://www.youtube.com/watch?v=RPRCnmfsL3U&list=PLiQVqoKb3ROdhitRo008Yj6cM3EgZrHnn&index=29",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "sdAce",
-            "link": "https://www.youtube.com/watch?v=DyXrnAihZ2s",
-            "percent": 100,
-            "hz": 60
         }
     ]
 }
